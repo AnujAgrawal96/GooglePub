@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GooglePubApp", "GooglePubApp\GooglePubApp.csproj", "{1CA31827-0FC7-426C-B170-8A462DDE32E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetryApp", "RetryApp\RetryApp.csproj", "{878509DC-8D18-4DD1-9BF3-5E17E19E855F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{1CA31827-0FC7-426C-B170-8A462DDE32E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CA31827-0FC7-426C-B170-8A462DDE32E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CA31827-0FC7-426C-B170-8A462DDE32E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878509DC-8D18-4DD1-9BF3-5E17E19E855F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878509DC-8D18-4DD1-9BF3-5E17E19E855F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878509DC-8D18-4DD1-9BF3-5E17E19E855F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878509DC-8D18-4DD1-9BF3-5E17E19E855F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
